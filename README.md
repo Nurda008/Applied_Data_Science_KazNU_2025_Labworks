@@ -3,8 +3,8 @@ Applied Data Science, KazNU, Spring 2025 зертханалық жұмыстар
 
 ## Модель
 Модель Kaz-RoBERTa, дообученная для обработки казахского языка, доступна на Hugging Face:
-- [Kaz-RoBERTa fine-tuned модель](https://huggingface.co/Nurda008/Kaz_Roberta_fine_tuned)
+- [Kaz-RoBERTa fine-tuned модель](https://huggingface.co/Aizadaay/Kaz_Roberta_fine_tuned)
 
 ## Датасет
 Датасет с отзывами о ресторанах Алматы доступен на Hugging Face:
-- [almaty_restaurant_reviews.csv](https://huggingface.co/datasets/Nurda008/almaty_restaurant_reviews.csv)
+- [almaty_restaurant_reviews.csv](https://huggingface.co/datasets/Aizadaay/review_almaty)
